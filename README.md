@@ -14,6 +14,7 @@ The repository includes the following files and folders:
 ## Project Overview
 
 The Wine Quality Analysis and Classification Project aims to analyze the dataset of wine samples and build predictive models to classify the quality of wines based on their chemical properties. The project involves data preprocessing, exploratory data analysis to gain insights, and the application of various classification algorithms.
+Refer to `first.ipynb` for detailed explanation and overview.
 
 ## Results
 
