@@ -1,0 +1,5 @@
+,Logistic Regression,Random Forest,KNN
+Precision,0.81,0.8,0.8
+Recall,0.75,0.74,0.55
+Accuracy,0.77,0.76,0.69
+F1,0.77,0.77,0.65
